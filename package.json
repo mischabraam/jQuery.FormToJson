@@ -1,0 +1,19 @@
+{
+  "name": "jquery_formtojson",
+  "version": "0.0.1",
+  "description": "Serialize a Form into a JSON object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mischabraam/jQuery.FormToJson.git"
+  },
+  "author": "Mischa Braam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mischabraam/jQuery.FormToJson/issues"
+  },
+  "homepage": "https://github.com/mischabraam/jQuery.FormToJson#readme"
+}
