@@ -1,5 +1,5 @@
-(function ($) {
-    $.fn.serializeJson = function () {
+jQuery.fn.extend({
+    serializeJson: function () {
         var o = {};
         var a = this.serializeArray();
         $.each(a, function () {
@@ -13,5 +13,5 @@
             }
         });
         return o;
-    };
-})(jQuery);
+    }
+});
